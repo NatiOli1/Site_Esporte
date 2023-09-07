@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Martel', Arial, sans-serif;
+ }
+.carousel-item img {
+    width: 400px;
+    height: 680px;
+
+    padding: 30px;   
+ }
+
+.cards {
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+
+}
+
+.cards h5 {
+    font-size: 20px;
+}
+#copyright {
+    margin-top: 2rem;
+}
+#copyright p {
+    color: white;
+    font-size: 11px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 40px;
+ }
+
+ 
